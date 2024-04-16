@@ -1,4 +1,3 @@
-ChatGPT
 Task Manager App
 
 Task Manager is a full-stack application built to efficiently manage tasks. It utilizes React.js for the frontend and Node.js with Express for the backend. Key features include:
